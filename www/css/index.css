@@ -204,3 +204,6 @@ footer {
     text-decoration: none;
     color: rgb(196, 183, 235);
 }
+#msg{
+    color: rgba(red, green, blue, 0)
+}
