@@ -205,5 +205,5 @@ footer {
     color: rgb(196, 183, 235);
 }
 #msg{
-    color: rgba(red, green, blue, 0)
+    opacity: 0;
 }
